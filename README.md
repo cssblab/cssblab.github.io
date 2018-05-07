@@ -13,40 +13,27 @@ We are located at MD1 building (NUS) and the Institute of Molecular and Cellular
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
-- Multi-omics data integration
-PECA: Protein expression control analysis for gene expression regulation. 
-Latest development at https://github.com/PECAplus 
+- PECA (https://github.com/PECAplus): Protein expression control analysis for gene expression regulation via multi-omics data integration in time series
 
-- Protein modification prediction
-PTMscape: an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk. 
-https://github.com/ginnyintifa/PTMscape/
 
-- Data integration
-iOmicsPASS: Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures. 
+- PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk. 
+
+
+- iOmicsPASS: Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures. 
 Coming soon! 
 
-- Data visualization
-SLIDE: Systems-level Interactive Data Exploration. 
-Click here for the web version of SLIDE
-GitHub page: https://github.com/soumitag/SLIDE
+- SLIDE (http://github.com/soumitag/SLIDE): Systems-level Interactive Data Exploration. The web version of SLIDE is available at http://http://137.132.97.109/VTBox/. 
 
-- Differential expression analysis for proteomics data
-EBprot: Statistical analysis of labeling-based proteomics data.
-http://sourceforge.net/projects/ebprot/ 
-https://github.com/cssblab/EBprot
-mapDIA: Data processing and statistical analysis of data independent acquisition MS data. 
-https://github.com/mapDIA/mapDIA
-QSPEC/QPROT: Statistical protein differential expression analysis for spectral count data. 
-http://sourceforge.net/projects/qprot/
+- EBprot (http://github.com/cssblab/EBprot): Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/.
 
-- Computational proteomics
-LuciPHOr: Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data. 
-http://luciphor.sourceforge.net/,
-http://luciphor2.sourceforge.net/
+- mapDIA (http://github.com/mapDIA/mapDIA): Data processing and statistical analysis of data independent acquisition MS data (in fact, any -omics data!)
 
-- Computational metabolomics 
-MetMatch: Database search engine for untargeted metabolomics (led by Scott Walmsley, U Colorado Denver). 
-http://github.com/IsoMS/metmatch
-MetaboDIA: spectral library and data extraction for DIA-MS in metabolomics. 
-https://sourceforge.net/projects/metabodia
+- QSPEC/QPROT (http://sourceforge.net/projects/qprot/): Statistical protein differential expression analysis for spectral count data. 
+
+- LuciPHOr (http://luciphor.sourceforge.net/, http://luciphor2.sourceforge.net/): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data. 
+
+- MetMatch (http://github.com/IsoMS/metmatch): Database search engine for untargeted metabolomics (led by Scott Walmsley, U Colorado Denver). 
+
+- MetaboDIA (https://sourceforge.net/projects/metabodia): spectral library and data extraction for DIA-MS in metabolomics. 
+
 
