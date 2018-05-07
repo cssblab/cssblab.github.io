@@ -9,22 +9,6 @@ Our mission is to develop computational and statistical solutions for the analys
 - Interactive data visualization
 - Data analysis for clinical application of high-throughput technologies
 
-We are located at MD1 building (NUS) and the Institute of Molecular and Cellular Biology (Proteos, Biopolis), with the lab members operating in both locations for collaborative research projects.
+We are located at MD1 building (NUS) and the Institute of Molecular and Cellular Biology (Proteos, Biopolis), with the lab members operating in both locations for collaborative research projects. For more information about the lab, please visit http://www.cssblab.org
 
 
-Contact information:
-Computational & Statistical Systems Biology
-Institute of Molecular and Cell Biology
-Agency for Science, Research, and Technology
-61 Biopolis Drive, Proteos, 6-08B
-Singapore 138673
-Phone: +65 6586 9780
-Email: hwchoi@imcb.a-star.edu.sg
-
-School of Public Health
-National University of Singapore
-Tahir Foundation Building MD1
-12 Science Drive 2, #11-01F
-Singapore 117549
-Phone: +65 9636 4411
-Email: hwchoi@nus.edu.sg
