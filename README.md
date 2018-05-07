@@ -23,7 +23,7 @@ https://github.com/ginnyintifa/PTMscape/
 
 - Data integration
 iOmicsPASS: Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures. 
-Coming up soon! 
+Coming soon! 
 
 - Data visualization
 SLIDE: Systems-level Interactive Data Exploration. 
