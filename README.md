@@ -34,15 +34,14 @@ GitHub page: https://github.com/soumitag/SLIDE
 EBprot: Statistical analysis of labeling-based proteomics data.
 http://sourceforge.net/projects/ebprot/ 
 https://github.com/cssblab/EBprot
-
-- mapDIA: Data processing and statistical analysis of data independent acquisition MS data. 
+mapDIA: Data processing and statistical analysis of data independent acquisition MS data. 
 https://github.com/mapDIA/mapDIA
 QSPEC/QPROT: Statistical protein differential expression analysis for spectral count data. 
 http://sourceforge.net/projects/qprot/
 
 - Computational proteomics
 LuciPHOr: Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data. 
-http://luciphor.sourceforge.net/ 
+http://luciphor.sourceforge.net/,
 http://luciphor2.sourceforge.net/
 
 - Computational metabolomics 
