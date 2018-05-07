@@ -35,8 +35,8 @@ EBprot: Statistical analysis of labeling-based proteomics data.
 http://sourceforge.net/projects/ebprot/ 
 https://github.com/cssblab/EBprot
 
-mapDIA: Data processing and statistical analysis of data independent acquisition MS data. 
-http://sourceforge.net/projects/mapdia/
+- mapDIA: Data processing and statistical analysis of data independent acquisition MS data. 
+https://github.com/mapDIA/mapDIA
 QSPEC/QPROT: Statistical protein differential expression analysis for spectral count data. 
 http://sourceforge.net/projects/qprot/
 
