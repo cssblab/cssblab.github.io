@@ -11,7 +11,7 @@ Our mission is to develop computational and statistical solutions for the analys
 
 We are located at MD1 building (NUS) and the Institute of Molecular and Cellular Biology (Proteos, Biopolis), with the lab members operating in both locations for collaborative research projects. For more information about the lab, please visit http://www.cssblab.org
 
-# Check out our latest softwares in GitHub and SourceForge repositories
+# Check out our latest softwares in GitHub and SourceForge repositories!
 
 - Multi-omics data integration
 PECA: Protein expression control analysis for gene expression regulation. 
