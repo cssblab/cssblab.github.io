@@ -18,7 +18,7 @@ Coming soon!
 
 - PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk. 
 
-- SLIDE (http://github.com/soumitag/SLIDE): Systems-level Interactive Data Exploration. The web version of SLIDE is available at http://http://137.132.97.109/VTBox/. 
+- SLIDE (http://github.com/soumitag/SLIDE): Systems-level Interactive Data Exploration. The web version of SLIDE is available at http://137.132.97.109/VTBox/. 
 
 - EBprot (http://github.com/cssblab/EBprot): Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/.
 
