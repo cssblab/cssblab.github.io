@@ -2,7 +2,7 @@
 # Computational & Statistical Systems Biology Laboratory
 @ National University of Singapore and Institute of Molecular & Cell Biology (A*STAR, Singapore)
 
-Our mission is to develop computational and statistical solutions for the analysis of high-dimensional molecular data in various context of biomedical research. In the past we have focused on bioinformatics method development in the area of computational proteomics, and our topics are rapidly growing into other areas now, including
+CSSB Laboratory develops computational and statistical solutions for the analysis of high-dimensional molecular data in various contexts of biomedical research. These tools are motivated by a wide range of research topics, including
 
 - Integration of multiple molecular data sets to harness systems-level biological information
 - Statistical methods for ultra high-dimensional data
