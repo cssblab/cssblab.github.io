@@ -4,12 +4,12 @@
 
 Our mission is to develop computational and statistical solutions for the analysis of high-dimensional molecular data in various context of biomedical research. In the past we have focused on bioinformatics method development in the area of computational proteomics, and our topics are rapidly growing into other areas now, including
 
-- Proteogenomics approaches for multiple molecular data integration
-- Bioinformatics tool development for un-targeted and targeted metabolomics and proteomics data
+- Integration of multiple molecular data sets to harness systems-level biological information
+- Statistical methods for ultra high-dimensional data
+- Computational tool development for mass spectrometry (MS) data
 - Interactive data visualization
-- Data analysis for clinical application of high-throughput technologies
 
-We are located at MD1 building (NUS) and the Institute of Molecular and Cellular Biology (Proteos, Biopolis), with the lab members operating in both locations for collaborative research projects. For more information about the lab, please visit http://www.cssblab.org
+CSSB Laboratory also provides next generation sequencing (NGS) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS or Institute of Molecular and Cell Biology, ASTAR. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
