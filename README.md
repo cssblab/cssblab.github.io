@@ -13,8 +13,7 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
-- iOmicsPASS: Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures. 
-Coming soon! 
+- iOmicsPASS (https://github.com/cssblab/iOmicsPASS): Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures. 
 
 - PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk. 
 
