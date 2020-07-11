@@ -13,22 +13,26 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
-- iOmicsPASS (https://github.com/cssblab/iOmicsPASS): Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures. 
+- MRMkit (https://github.com/MRMkit/MRMkit): Automated peak integration and data normalization for targeted mass spectrometry in large-scale studies
 
-- PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk. 
+- MetaboKit (https://github.com/MetaboKit/MetaboKit): Data dependent and independent acquisition mass spectrometry analyiss workflow for untargeted metabolomics experiments
+
+- iOmicsPASS (https://github.com/cssblab/iOmicsPASS): Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures 
+
+- PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk 
 
 - SLIDE (http://github.com/soumitag/SLIDE): Systems-level Interactive Data Exploration. The web version of SLIDE is available at http://137.132.97.109/VTBox/. 
 
-- EBprot (http://github.com/cssblab/EBprot): Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/.
+- EBprot (http://github.com/cssblab/EBprot): Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/
 
 - PECA (https://github.com/PECAplus): Protein expression control analysis for gene expression regulation via multi-omics data integration in time series
 
 - mapDIA (http://github.com/mapDIA/mapDIA): Data processing and statistical analysis of data independent acquisition MS data (in fact, any -omics data!)
 
-- QSPEC/QPROT (http://sourceforge.net/projects/qprot/): Statistical protein differential expression analysis for spectral count data. 
+- QSPEC/QPROT (http://sourceforge.net/projects/qprot/): Statistical protein differential expression analysis for spectral count data
 
-- LuciPHOr (http://luciphor.sourceforge.net/, http://luciphor2.sourceforge.net/): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data. 
+- LuciPHOr (http://luciphor.sourceforge.net/, http://luciphor2.sourceforge.net/): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data
 
-- MetMatch (http://github.com/IsoMS/metmatch): Database search engine for untargeted metabolomics (led by Scott Walmsley, U Colorado Denver). 
+- MetMatch (http://github.com/IsoMS/metmatch): Database search engine for untargeted metabolomics (led by Scott Walmsley, U Colorado Denver)
 
-- MetaboDIA (https://sourceforge.net/projects/metabodia): spectral library and data extraction for DIA-MS in metabolomics. 
+- MetaboDIA (https://sourceforge.net/projects/metabodia): spectral library and data extraction for DIA-MS in metabolomics
