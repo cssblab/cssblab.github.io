@@ -13,6 +13,8 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
+- eGFR smoothing (https://github.com/jleechung/eGFRsmooth): clinical time course data smoothing and detection of rapid decline in functional parameters (e.g. glomerular filtration rates for kidney disease)
+
 - MRMkit (https://github.com/MRMkit/MRMkit): Automated peak integration and data normalization for targeted mass spectrometry in large-scale studies
 
 - MetaboKit (https://github.com/MetaboKit/MetaboKit): Data dependent and independent acquisition mass spectrometry analyiss workflow for untargeted metabolomics experiments
