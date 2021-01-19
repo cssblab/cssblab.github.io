@@ -12,6 +12,8 @@ CSSB Laboratory develops computational and statistical solutions for the analysi
 CSSB Laboratory also provides massively parallel sequencing (or next generation sequencing (NGS)) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
+- DIMSkit (https://github.com/DIMSkit/DIMSkit): compound identification and semi-quantification from direct infusion mass spectrometry experiments (with automatic library generation through MetaboKit)
+
 - ParProx (https://github.com/kose-y/ParProx.jl): parallel or distributed computing for ultrahigh-dimensional group lasso regression
 
 - iOmicsPASSv2 (https://github.com/cssblab/iOmicsPASSv2plus): Extension of iOmicsPASS with partial correlation network estimation for general multi-omics data
