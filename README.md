@@ -1,6 +1,6 @@
 
 # Computational & Statistical Systems Biology Laboratory
-@ National University of Singapore and Institute of Molecular & Cell Biology (A*STAR, Singapore)
+@ National University of Singapore
 
 CSSB Laboratory develops computational and statistical solutions for the analysis of high-dimensional molecular data in various contexts of biomedical research. These tools are motivated by a wide range of research topics, including
 
@@ -9,7 +9,7 @@ CSSB Laboratory develops computational and statistical solutions for the analysi
 - Computational tool development for mass spectrometry (MS) data
 - Interactive data visualization
 
-CSSB Laboratory also provides massively parallel sequencing (or next generation sequencing (NGS)) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS or Institute of Molecular and Cell Biology, ASTAR. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
+CSSB Laboratory also provides massively parallel sequencing (or next generation sequencing (NGS)) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
