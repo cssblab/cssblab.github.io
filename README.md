@@ -12,6 +12,11 @@ CSSB Laboratory develops computational and statistical solutions for the analysi
 CSSB Laboratory also provides massively parallel sequencing (or next generation sequencing (NGS)) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
+- ParProx (https://github.com/kose-y/ParProx.jl): parallel or distributed computing for ultrahigh-dimensional group lasso regression
+
+- iOmicsPASSv2 (https://github.com/cssblab/iOmicsPASSv2plus): Extension of iOmicsPASS with partial correlation network estimation for general multi-omics data
+
+- KSA2D (https://github.com/ginnyintifa/KSA2D): sensitive differential PTM analysis and kinase-substrate joint differential analysis
 
 - eGFR smoothing (https://github.com/jleechung/eGFRsmooth): clinical time course data smoothing and detection of rapid decline in functional parameters (e.g. glomerular filtration rates for kidney disease)
 
@@ -36,7 +41,3 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 - QSPEC/QPROT (http://sourceforge.net/projects/qprot/): Statistical protein differential expression analysis for spectral count data
 
 - LuciPHOr (http://luciphor.sourceforge.net/, http://luciphor2.sourceforge.net/): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data
-
-- MetMatch (http://github.com/IsoMS/metmatch): Database search engine for untargeted metabolomics (led by Scott Walmsley, U Colorado Denver)
-
-- MetaboDIA (https://sourceforge.net/projects/metabodia): spectral library and data extraction for DIA-MS in metabolomics
