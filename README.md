@@ -1,6 +1,5 @@
 
 # Computational & Statistical Systems Biology Laboratory
-@ National University of Singapore
 
 CSSB Laboratory develops computational and statistical solutions for the analysis of high-dimensional molecular data in various contexts of biomedical research. These tools are motivated by a wide range of research topics, including
 
