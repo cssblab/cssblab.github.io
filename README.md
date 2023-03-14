@@ -12,7 +12,7 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
-- <a href="https://github.com/cssblab/iOmicsPASSplus" target="_blank" rel="noopener">iOmicsPASS+</a>: Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
+- <a href="https://github.com/cssblab/iOmicsPASSplus" target="_blank">iOmicsPASS+</a>: Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
 
 - <a href="https://github.com/ginnyintifa/GPD" target="_blank">GPD</a>: annotation-based mapping protein coding variants to structural units of protein sequences for downstream statistical analysis of cancer genomics data (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23979" target="_blank">paper</a>)
 
