@@ -12,35 +12,35 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
-- iOmicsPASS+ (https://github.com/cssblab/iOmicsPASSplus): Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
+- <a href="https://github.com/cssblab/iOmicsPASSplus" target="_blank">iOmicsPASS+</a>: Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
 
-- GPD (https://github.com/ginnyintifa/GPD): annotation-based mapping protein coding variants to structural units of protein sequences for downstream statistical analysis of cancer genomics data (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23979" target="_blank">paper</a>)
+- <a href="https://github.com/ginnyintifa/GPD" target="_blank">GPD</a>: annotation-based mapping protein coding variants to structural units of protein sequences for downstream statistical analysis of cancer genomics data (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23979" target="_blank">paper</a>)
 
-- ParProx (https://github.com/kose-y/ParProx.jl): parallel or distributed computing for ultrahigh-dimensional group lasso regression (<a href="https://academic.oup.com/bib/article/22/6/bbab256/6319937" target="_blank">paper</a>)
+- <a href="https://github.com/kose-y/ParProx.jl" target="_blank">ParProx</a>: parallel or distributed computing for ultrahigh-dimensional group lasso regression (<a href="https://academic.oup.com/bib/article/22/6/bbab256/6319937" target="_blank">paper</a>)
 
-- KSA2D (https://github.com/ginnyintifa/KSA2D): sensitive differential PTM analysis and kinase-substrate joint differential analysis
+- <a href="https://github.com/ginnyintifa/KSA2D" target="_blank">KSA2D</a>: sensitive differential PTM analysis and kinase-substrate joint differential analysis
 
-- eGFR smoothing (https://github.com/jleechung/eGFRsmooth): clinical time course data smoothing and detection of rapid decline in functional parameters (e.g. glomerular filtration rates for kidney disease)
+- <a href="https://github.com/jleechung/eGFRsmooth" target="_blank">eGFR smoothing</a>: clinical time course data smoothing and detection of rapid decline in functional parameters (e.g. glomerular filtration rates for kidney disease)
 
-- MRMkit (https://github.com/MRMkit/MRMkit): Automated peak integration and data normalization for targeted mass spectrometry in large-scale studies (<a href="https://pubs.acs.org/doi/10.1021/acs.analchem.0c03060" target="_blank">paper</a>)
+- <a href="https://github.com/MRMkit/MRMkit" target="_blank">MRMkit</a>: Automated peak integration and data normalization for targeted mass spectrometry in large-scale studies (<a href="https://pubs.acs.org/doi/10.1021/acs.analchem.0c03060" target="_blank">paper</a>)
 
-- MetaboKit (https://github.com/MetaboKit/MetaboKit): Data dependent and independent acquisition mass spectrometry analyiss workflow for untargeted metabolomics experiments (<a href="https://pubs.rsc.org/en/content/articlelanding/2020/mo/d0mo00030b" target="_blank">paper</a>)
+- <a href="https://github.com/MetaboKit/MetaboKit" target="_blank">MetaboKit</a>: Data dependent and independent acquisition mass spectrometry analyiss workflow for untargeted metabolomics experiments (<a href="https://pubs.rsc.org/en/content/articlelanding/2020/mo/d0mo00030b" target="_blank">paper</a>)
 
-- iOmicsPASS (https://github.com/cssblab/iOmicsPASS): Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures (<a href="https://www.nature.com/articles/s41540-019-0099-y" target="_blank">paper</a>) 
+- <a href="https://github.com/cssblab/iOmicsPASS" target="_blank">iOmicsPASS</a>: Integrative -omics approach for predictive analysis of cancer subtypes with sub-network signatures (<a href="https://www.nature.com/articles/s41540-019-0099-y" target="_blank">paper</a>) 
 
-- PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk (<a href="https://pubs.rsc.org/en/content/articlelanding/2018/mo/c8mo00027a" target="_blank">paper</a>)
+- <a href="http://github.com/ginnyintifa/PTMscape/" target="_blank">PTMscape</a>: an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk (<a href="https://pubs.rsc.org/en/content/articlelanding/2018/mo/c8mo00027a" target="_blank">paper</a>)
 
-- multiSLIDE (https://github.com/soumitag/multiSLIDE): heatmap visualization of selected molecular features of quantitative multi-omics data (<a href="https://www.nature.com/articles/s41467-021-22650-x" target="_blank">paper</a>)
+- <a href="https://github.com/soumitag/multiSLIDE" target="_blank">multiSLIDE</a>: heatmap visualization of selected molecular features of quantitative multi-omics data (<a href="https://www.nature.com/articles/s41467-021-22650-x" target="_blank">paper</a>)
 
-- EBprot (http://github.com/cssblab/EBprot): Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/ (<a href="paper - https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00483" target="_blank">paper</a>)
+- <a href="http://github.com/cssblab/EBprot" target="_blank">EBprot</a>: Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/ (<a href="paper - https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00483" target="_blank">paper</a>)
 
-- PECA (https://github.com/PECAplus): Protein expression control analysis for gene expression regulation via multi-omics data integration in time series (<a href="https://pubs.acs.org/doi/abs/10.1021/pr400855q" target="_blank">paper</a>)
+- <a href="https://github.com/PECAplus" target="_blank">PECA</a>: Protein expression control analysis for gene expression regulation via multi-omics data integration in time series (<a href="https://pubs.acs.org/doi/abs/10.1021/pr400855q" target="_blank">paper</a>)
 
-- mapDIA (http://github.com/mapDIA/mapDIA): Data processing and statistical analysis of data independent acquisition MS data (in fact, any -omics data!) (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874391915301305?via%3Dihub" target="_blank">paper</a>)
+- <a href="http://github.com/mapDIA/mapDIA" target="_blank">mapDIA</a>: Data processing and statistical analysis of data independent acquisition MS data (in fact, any -omics data!) (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874391915301305?via%3Dihub" target="_blank">paper</a>)
 
-- QSPEC/QPROT (http://sourceforge.net/projects/qprot/): Statistical protein differential expression analysis for spectral count data (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874391915300907" target="_blank">paper</a>)
+- <a href="http://sourceforge.net/projects/qprot/" target="_blank">QSPEC/QPROT</a>: Statistical protein differential expression analysis for spectral count data (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874391915300907" target="_blank">paper</a>)
 
-- LuciPHOr (http://luciphor.sourceforge.net/, http://luciphor2.sourceforge.net/): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data (<a href="https://www.mcponline.org/article/S1535-9476(20)34616-8/fulltext" target="_blank">paper</a>)
+- <a href="http://luciphor.sourceforge.net/" target="_blank">LuciPHOr</a>, <a href="http://luciphor2.sourceforge.net/" target="_blank">LuciPHOr2</a>): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data (<a href="https://www.mcponline.org/article/S1535-9476(20)34616-8/fulltext" target="_blank">paper</a>)
 
 # Upcoming Software
 
