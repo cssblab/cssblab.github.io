@@ -14,7 +14,7 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 - iOmicsPASS+ (https://github.com/cssblab/iOmicsPASSplus): Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
 
-- GPD (https://github.com/ginnyintifa/GPD): annotation-based mapping protein coding variants to structural units of protein sequences for downstream statistical analysis of cancer genomics data (paper - https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23979)
+- GPD (https://github.com/ginnyintifa/GPD): annotation-based mapping protein coding variants to structural units of protein sequences for downstream statistical analysis of cancer genomics data (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23979" paper </a>)
 
 - ParProx (https://github.com/kose-y/ParProx.jl): parallel or distributed computing for ultrahigh-dimensional group lasso regression (paper - https://academic.oup.com/bib/article/22/6/bbab256/6319937)
 
