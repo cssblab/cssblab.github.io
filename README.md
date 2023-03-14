@@ -11,11 +11,12 @@ CSSB Laboratory develops computational and statistical solutions for the analysi
 CSSB Laboratory also provides massively parallel sequencing (or next generation sequencing (NGS)) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
-- DIMSkit (https://github.com/DIMSkit/DIMSkit): compound identification and semi-quantification from direct infusion mass spectrometry experiments (with automatic library generation through MetaboKit)
+
+- iOmicsPASS+ (https://github.com/cssblab/iOmicsPASSplus): Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
+
+- GPD (https://github.com/ginnyintifa/GPD): annotation-based mapping protein coding variants to structural units of protein sequences for downstream statistical analysis of cancer genomics data
 
 - ParProx (https://github.com/kose-y/ParProx.jl): parallel or distributed computing for ultrahigh-dimensional group lasso regression
-
-- iOmicsPASSv2 (https://github.com/cssblab/iOmicsPASSv2plus): Extension of iOmicsPASS with partial correlation network estimation for general multi-omics data
 
 - KSA2D (https://github.com/ginnyintifa/KSA2D): sensitive differential PTM analysis and kinase-substrate joint differential analysis
 
@@ -30,8 +31,6 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 - PTMscape (http://github.com/ginnyintifa/PTMscape/): an open source tool to predict generic post-translational modifications and map hotspots of modification crosstalk 
 
 - multiSLIDE (https://github.com/soumitag/multiSLIDE): heatmap visualization of selected molecular features of quantitative multi-omics data
-
-- SLIDE (http://github.com/soumitag/SLIDE): Systems-level Interactive Data Exploration. The web version of SLIDE is available at http://137.132.97.109/VTBox/. 
 
 - EBprot (http://github.com/cssblab/EBprot): Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/
 
