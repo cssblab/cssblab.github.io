@@ -32,7 +32,7 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 - <a href="https://github.com/soumitag/multiSLIDE" target="_blank">multiSLIDE</a>: heatmap visualization of selected molecular features of quantitative multi-omics data (<a href="https://www.nature.com/articles/s41467-021-22650-x" target="_blank">paper</a>)
 
-- <a href="http://github.com/cssblab/EBprot" target="_blank">EBprot</a>: Statistical analysis of labeling-based proteomics data. First version in R package is available at http://sourceforge.net/projects/ebprot/ (<a href="paper - https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00483" target="_blank">paper</a>)
+- <a href="http://github.com/cssblab/EBprot" target="_blank">EBprot</a>: Statistical analysis of labeling-based proteomics data. First version in R package is available <a href="http://sourceforge.net/projects/ebprot/" target="_blank">here</a> (<a href="https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00483" target="_blank">paper</a>)
 
 - <a href="https://github.com/PECAplus" target="_blank">PECA</a>: Protein expression control analysis for gene expression regulation via multi-omics data integration in time series (<a href="https://pubs.acs.org/doi/abs/10.1021/pr400855q" target="_blank">paper</a>)
 
