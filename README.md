@@ -8,8 +8,6 @@ CSSB Laboratory develops computational and statistical solutions for the analysi
 - Computational tool development for mass spectrometry (MS) data
 - Interactive data visualization
 
-Our lab also provides massively parallel sequencing (or next generation sequencing (NGS)) and MS data analysis support for basic scientists and clinical investigators through Systems Biology Core at NUHS. Our collaborative service work includes exome sequencing, epigenetic profiling, transcriptomics, proteomics and metabolomics/lipidomics data analysis.
-
 # Check out our latest softwares in GitHub and SourceForge repositories!
 
 - <a href="https://github.com/cssblab/iOmicsPASSplus" target="_blank">iOmicsPASS+</a>: Extension of iOmicsPASS with direct partial correlation network estimation for general multi-omics data
