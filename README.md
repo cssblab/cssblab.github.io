@@ -40,7 +40,7 @@ CSSB Laboratory also provides massively parallel sequencing (or next generation 
 
 - <a href="http://sourceforge.net/projects/qprot/" target="_blank">QSPEC/QPROT</a>: Statistical protein differential expression analysis for spectral count data (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1874391915300907" target="_blank">paper</a>)
 
-- <a href="http://luciphor.sourceforge.net/" target="_blank">LuciPHOr</a>, <a href="http://luciphor2.sourceforge.net/" target="_blank">LuciPHOr2</a>): Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data (<a href="https://www.mcponline.org/article/S1535-9476(20)34616-8/fulltext" target="_blank">paper</a>)
+- <a href="http://luciphor.sourceforge.net/" target="_blank">LuciPHOr</a>, <a href="http://luciphor2.sourceforge.net/" target="_blank">LuciPHOr2</a>: Probabilistic algorithm to control false localization rates of generic PTM from mass spectrometry-based proteomics data (<a href="https://www.mcponline.org/article/S1535-9476(20)34616-8/fulltext" target="_blank">paper</a>)
 
 # Upcoming Software
 
