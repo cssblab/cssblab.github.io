@@ -1,11 +1,11 @@
 
 # Computational & Statistical Systems Biology Laboratory
 
-CSSB Laboratory develops computational and statistical solutions for the analysis of high-dimensional molecular data in various contexts of biomedical research. These tools are motivated by a wide range of research topics, including
+CSSB laboratory develops computational and statistical solutions for the analysis of high-dimensional molecular data in various contexts of biomedical research. These tools are motivated by a wide range of research topics, including
 
 - Integration of multiple molecular data sets to harness systems-level biological information
 - Statistical methods for ultra high-dimensional data
-- Computational tool development for mass spectrometry (MS) data
+- Computational tool development for mass spectrometry data
 - Interactive data visualization
 
 # Check out our latest softwares in GitHub and SourceForge repositories!
@@ -42,7 +42,7 @@ CSSB Laboratory develops computational and statistical solutions for the analysi
 
 # Upcoming Software
 
-- Next generation MS-based metabolomics tools: high-resolution MS acquisition with and without chromatographic separation
+- Next generation mass spectrometry-based metabolomics tools: high-resolution MS acquisition methods with and without chromatographic separation
 
 - Ultrahigh-dimensional sparse precision matrix estimation with and without limit of detection in the data via distributed computing
 
